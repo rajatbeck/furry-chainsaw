@@ -57,9 +57,9 @@ class ListFragment : Fragment() {
 
         override fun onBindViewHolderImpl(p0: RecyclerView.ViewHolder?, p1: ParallaxRecyclerAdapter<Int>?, p2: Int) {
 
-             p0?.itemView?.setOnClickListener {
-
-             }
+//             p0?.itemView?.setOnClickListener {
+//
+//             }
 
         }
 

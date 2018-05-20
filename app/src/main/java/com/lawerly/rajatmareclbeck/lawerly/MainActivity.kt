@@ -16,11 +16,11 @@ class MainActivity : AppCompatActivity() {
                 return@OnNavigationItemSelectedListener true
             }
             R.id.navigation_dashboard -> {
-                viewPager.currentItem = 1
+//                viewPager.currentItem = 1
                 return@OnNavigationItemSelectedListener true
             }
             R.id.navigation_notifications -> {
-                viewPager.currentItem = 2
+//                viewPager.currentItem = 2
                 return@OnNavigationItemSelectedListener true
             }
         }
